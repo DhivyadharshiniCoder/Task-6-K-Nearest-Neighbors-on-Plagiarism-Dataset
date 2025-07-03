@@ -37,18 +37,9 @@ This task implements a **K-Nearest Neighbors (KNN)** classifier to predict wheth
 ![image](https://github.com/user-attachments/assets/c1a52d15-4138-42c9-a519-012f4d89a572)
 
 
-## ❓ Interview Q&A Covered
-
-- What is KNN?
-- How KNN works with numeric features
-- Choosing the best K
-- Effect of outliers
-- Distance metric used (Euclidean)
-
 ---
 
 ## ✅ Files
-----plaigiarismchecker.py
 ├── similarity_output_task3.csv
 ├── README.md
 └── output_task6.png (optional)
