@@ -48,5 +48,10 @@ This task implements a **K-Nearest Neighbors (KNN)** classifier to predict wheth
 ---
 
 ## ✅ Files
+----plaigiarismchecker.py
+├── similarity_output_task3.csv
+├── README.md
+└── output_task6.png (optional)
+
 
 
